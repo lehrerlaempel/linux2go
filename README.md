@@ -8,7 +8,7 @@ Diese Anleitung soll kurz zusammenfassen, wie man Linux auf einem USB-Stick inst
 
 Wenn Sie sich nicht sicher sind, ob das bei Ihrem PC gegeben ist, öffnen Sie einfach das BIOS, indem Sie direkt nach dem Start des Computers wiederholt F2 ([je nach Hersteller kann es auch eine andere Taste sein](https://www.tomshardware.com/reviews/bios-keys-to-access-your-firmware,5732.html)) drücken, bis sich die BIOS-Einstellungen öffnen. Diese sehen je nach Hersteller und Gerät immer anders aus und sind auch anders sortiert. Aber irgendwo muss es unter einem Punkt "Boot" o.ä. die Option geben, neben dem Boot Mode **UEFI** auch **Legacy** zu wählen. Sie müssen hier nichts umstellen, sonst startet ggf. Ihr Windows Betriebssystem nicht mehr. Wichtig ist nur, dass Sie sicherstellen, dass Ihr PC Legacy unterstützt und diese Option auch erlaubt ist.
 
-**Wer mit Computern ohne Legacy-Unterstüzung arbeiten möchte, kann einen Blick ins Kapitel 7 riskieren...**
+*Wer mit Computern ohne Legacy-Unterstüzung arbeiten möchte, kann einen Blick ins Kapitel 7 riskieren...*
 
 # 1 Beschaffung des Notwendigen
 Zunächst müssen wir ein paar Dinge vorbereiten:
